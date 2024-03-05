@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.herosection-bg{
+    background-image:url(https://img.freepik.com/free-photo/traveller-sitting-rock-holding-camera-take-photo-doi-pha-mon-mountains-chiang-rai-thailand_335224-1078.jpg?t=st=1709637257~exp=1709640857~hmac=f647cfb11bdc4bc2f867ae9791789315adff4b9ffd3f43152cb28332bd16c227&w=996);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.why-section-bg{
+    background-color: #F9FBFE;
+    height: 100vh;
+}
+.explore-bg{
+    background-color: #F9FBFE;
+    height: 100vh;
+}
+.info-section-bg{
+    background-color: #F9FBFE;
+}
+.booking-section-bg{
+    background-color: #FFFFFF;
+}
+
+.follow-section-bg{
+    background-color: #FFFFFF;
+}
+.footer-bg{
+    background-color:black;
+}
